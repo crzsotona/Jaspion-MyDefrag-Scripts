@@ -10,5 +10,6 @@ The Jaspion Scripts are a set of highly configurable optimisation scripts preset
 
 *   MyDefrag installer is included in the repository
 *   MyDefrag is not an open source application
-*   Copyright of the scripts belongs to Jaspion
+*   MyDefrag is no longer developed/maintained
+*   Copyright for the scripts belongs to Jaspion
 *   Open the scripts in a text editor to see usage
