@@ -18,3 +18,7 @@ The Jaspion Scripts are a set of highly configurable optimisation scripts preset
 
 [Jaspion's website](https://www.sites.google.com/site/jaspionpc/mydefrag) |
 [MyDefrag download](https://www.majorgeeks.com/files/details/mydefrag.html)
+
+## Other
+
+To defragment locked system files use [UltraDefrag's](https://www.ultradefrag.net/en/index.shtml) boot time defragmenter.
