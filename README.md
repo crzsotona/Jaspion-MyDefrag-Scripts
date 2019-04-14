@@ -13,3 +13,8 @@ The Jaspion Scripts are a set of highly configurable optimisation scripts preset
 *   MyDefrag is no longer developed/maintained
 *   Copyright for the scripts belongs to Jaspion
 *   Open the scripts in a text editor to see usage
+
+## Links
+
+[Jaspion's website](https://www.sites.google.com/site/jaspionpc/mydefrag) |
+[MyDefrag download](https://www.majorgeeks.com/files/details/mydefrag.html)
